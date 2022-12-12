@@ -22,4 +22,4 @@ git commit -m "Meaningful commit message"
 
 git push origin main/master
 
-git status =>
+git status => To know the status of staging
